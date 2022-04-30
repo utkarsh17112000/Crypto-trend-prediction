@@ -3,3 +3,9 @@ matplotlib
 pydeck
 streamlit
 flexidate
+numpy
+pandas_datareader
+keras
+datetime
+bs4
+requests
